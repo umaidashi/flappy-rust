@@ -5,6 +5,8 @@ edition = "2021"
 
 [dependencies]
 bevy = { version = "0.14", features = ["dynamic_linking"] }
+# NOTE: dinamic_linking でビルドすることで、ビルド時間を短縮できるらしい
+# https://www.rustfinity.com/tutorials/flappy-rust/setting-up-the-project#setting-up-bevy
 
 # Enable a small amount of optimization in debug mode
 [profile.dev]
