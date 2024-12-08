@@ -1,3 +1,3 @@
-# Bevy Starter
+# Flappy Rust
 
-A simple bevy start with correct configurations for fast compile times.
+https://www.rustfinity.com/tutorials/flappy-rust
